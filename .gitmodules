@@ -1,0 +1,3 @@
+[submodule "scripts/genomic_scripts"]
+	path = scripts/genomic_scripts
+	url = https://github.com/alevar/genomic_scripts.git
